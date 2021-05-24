@@ -23,4 +23,4 @@ version = "0.0.0"
 
 [options]
 password_file = "/data/project/ircservserv/password"
-channel_config = "/data/project/ircservserv/ircservserv-config"
+channel_config = "/data/project/ircservserv/ircservserv-config/channels"
