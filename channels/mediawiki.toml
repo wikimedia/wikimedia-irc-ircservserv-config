@@ -1,0 +1,26 @@
+founders = [
+    "Az1568",
+    "TimStarling",
+    "legoktm",
+]
+crats = []
+ops = [
+    "Ciencia-Al-Poder",
+    "Isarra",
+    "Nikerabbit",
+    "Platonides",
+    "Reedy",
+    "Waggie",
+    "hashar",
+    "moonmoon",
+    "p858snake",
+    "snowolf",
+    "stwalkerster",
+    "Urbanecm",
+    "ashley",
+]
+plus_o = [
+    "*!*@libera/staff/*",
+    "wmopbot",
+]
+global_bans = true
