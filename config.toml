@@ -7,7 +7,7 @@ server = "irc.libera.chat"
 port = 6697
 use_tls = true
 encoding = "UTF-8"
-channels = ["#wikimedia-ops"]
+channels = ["#wikimedia-ops", "#mediawiki", "#wikimedia-kawaii"]
 user_info = "Bots go beep beep."
 version = "0.0.0"
 
