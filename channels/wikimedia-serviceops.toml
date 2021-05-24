@@ -1,0 +1,19 @@
+founders = [
+    "Az1568",
+    "joe_oblivian",
+    "legoktm",
+]
+crats = [
+    "akosiaris",
+    "effie",
+    "jayme",
+    "mutante",
+    "rzl",
+]
+ops = [
+]
+plus_o = [
+    "*!*@libera/staff/*",
+    "wmopbot",
+]
+global_bans = true

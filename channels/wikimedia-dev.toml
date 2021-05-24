@@ -1,0 +1,13 @@
+founders = [
+    "Az1568",
+    "legoktm",
+]
+crats = [
+]
+ops = [
+]
+plus_o = [
+    "*!*@libera/staff/*",
+    "wmopbot",
+]
+global_bans = true
