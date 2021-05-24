@@ -5,6 +5,7 @@ founders = [
     "paravoid",
 ]
 crats = [
+    "ircservserv-wm"
 ]
 ops = [
 ]

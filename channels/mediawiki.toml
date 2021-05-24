@@ -3,7 +3,9 @@ founders = [
     "TimStarling",
     "legoktm",
 ]
-crats = []
+crats = [
+    "ircservserv-wm",
+]
 ops = [
     "Ciencia-Al-Poder",
     "Isarra",
