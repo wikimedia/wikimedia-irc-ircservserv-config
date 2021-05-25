@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: ircservserv
-          image: docker-registry.tools.wmflabs.org/toolforge-buster-standalone:latest
+          image: docker-registry.tools.wmflabs.org/toolforge-buster-sssd:latest
           command: [ "/data/project/ircservserv/ircservserv-config/toolforge/manage.sh", "run" ]
           workingDir: /data/project/ircservserv
           env:
