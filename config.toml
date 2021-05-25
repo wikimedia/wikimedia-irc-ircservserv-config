@@ -1,6 +1,13 @@
+password_file = "/data/project/ircservserv/password"
+channel_config = "/data/project/ircservserv/ircservserv-config"
+trusted = [
+    "user/legoktm",
+]
+
+[irc]
 owners = []
-nickname = "wm-ircservserv"
-alt_nicks = ["wm-ircservserv_", "wm-ircservserv__"]
+nickname = "wm-ircservserv_"
+alt_nicks = ["ircservserv-wm", "wm-ircservserv__"]
 username = "wm-ircservserv"
 realname = "Hmmmmm"
 server = "irc.libera.chat"
@@ -20,7 +27,3 @@ channels = [
 ]
 user_info = "Bots go beep beep."
 version = "0.0.0"
-
-[options]
-password_file = "/data/project/ircservserv/password"
-channel_config = "/data/project/ircservserv/ircservserv-config/channels"
