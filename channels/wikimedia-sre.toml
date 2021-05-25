@@ -1,11 +1,11 @@
 founders = [
     "Az1568",
-    "legoktm",
     "joe_oblivian",
     "paravoid",
     "ircservserv-wm",
 ]
 crats = [
+    "legoktm",
 ]
 ops = [
     "manuel",
