@@ -1,0 +1,33 @@
+---
+# Run ircservserv on kubernetes
+# Adapted from stashbot's deployment file
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ircservserv
+  namespace: tool-ircservserv
+  labels:
+    name: ircservserv
+    toolforge: tool
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: ircservserv
+      toolforge: tool
+  template:
+    metadata:
+      labels:
+        name: ircservserv
+        # Mount NFS
+        toolforge: tool
+    spec:
+      containers:
+        - name: ircservserv
+          image: docker-registry.tools.wmflabs.org/toolforge-buster-standalone:latest
+          command: [ "/data/project/ircservserv/ircservserv-config/toolforge/manage.sh", "run" ]
+          workingDir: /data/project/ircservserv
+          env:
+            - name: HOME
+              value: /data/project/ircservserv
+          imagePullPolicy: Always
