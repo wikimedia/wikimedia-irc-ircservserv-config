@@ -2,6 +2,7 @@ password_file = "/data/project/ircservserv/password"
 channel_config = "/data/project/ircservserv/ircservserv-config"
 trusted = [
     "user/legoktm",
+    "user/majavah",
 ]
 
 [irc]
