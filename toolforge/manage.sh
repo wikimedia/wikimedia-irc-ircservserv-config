@@ -9,7 +9,7 @@ POD_NAME=ircservserv
 
 APP_DIR=/data/project/ircservserv/ircservserv
 CONFIG_DIR=/data/project/ircservserv/ircservserv-config
-CONFIG=${CONFIG_DIR}/toolforge/deployment.yaml
+DEPLOYMENT_FILE=${CONFIG_DIR}/toolforge/deployment.yaml
 
 KUBECTL=/usr/bin/kubectl
 
@@ -22,7 +22,7 @@ _get_pod() {
 case "$1" in
     start)
         echo "Starting ircservserv k8s deployment..."
-        $KUBECTL create --validate=true -f ${CONFIG_DIR}/deployment.yaml
+        $KUBECTL create --validate=true -f ${DEPLOYMENT_FILE}
         ;;
     run)
         date +%Y-%m-%dT%H:%M:%S
