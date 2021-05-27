@@ -1,0 +1,7 @@
+pipelines:
+  test:
+    blubberfile: blubber.yaml
+    stages:
+      - name: validate
+        build: validate
+        run: true

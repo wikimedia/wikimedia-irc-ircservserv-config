@@ -1,0 +1,24 @@
+version: v4
+base: docker-registry.wikimedia.org/wikimedia-buster:latest
+variants:
+  build:
+    base: docker-registry.wikimedia.org/releng/rust:1.52.1-1
+  prep:
+    includes: [build]
+    builder:
+      command:
+        - cargo
+        - install
+        - "--git"
+        - "https://gerrit.wikimedia.org/r/wikimedia/irc/ircservserv"
+  validate:
+    copies:
+      - from: prep
+        source: /usr/local/cargo/bin/validate-config
+        destination: /usr/local/bin/validate-config
+      - from: local
+        source: .
+        destination: .
+    entrypoint:
+      - "/usr/local/bin/validate-config"
+      - "channels"
