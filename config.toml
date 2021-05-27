@@ -1,20 +1,21 @@
-password_file = "/data/project/ircservserv/password"
-channel_config = "/data/project/ircservserv/ircservserv-config"
+# List of users with access to the bot's code
+# Updates to this list require a full restart
+owners = [
+    "legoktm",
+    "majavah",
+]
+# List of users who can merge changes to config
+# Updates to this list require a full restart
 trusted = [
-    "wikipedia/Legoktm",
-    "wikimedia/majavah",
+    "Legoktm",
+    "majavah",
 ]
 
+password_file = "/data/project/ircservserv/password"
+channel_config = "/data/project/ircservserv/ircservserv-config"
+
 [irc]
-owners = []
-nickname = "wm-ircservserv_"
-alt_nicks = ["ircservserv-wm", "wm-ircservserv__"]
-username = "wm-ircservserv"
-realname = "Hmmmmm"
-server = "irc.libera.chat"
-port = 6697
-use_tls = true
-encoding = "UTF-8"
+# Channels that this bot manages
 channels = [
     "#wikimedia-ops",
     "#mediawiki",
@@ -27,5 +28,15 @@ channels = [
     "#wikimedia-serviceops",
     "#wikimedia-sre",
 ]
+# IRC bot settings
+owners = []
+nickname = "ircservserv-wm"
+alt_nicks = ["ircservserv-wm_", "ircservserv-wm__"]
+username = "wm-ircservserv"
+realname = "Hmmmmm"
+server = "irc.libera.chat"
+port = 6697
+use_tls = true
+encoding = "UTF-8"
 user_info = "Bots go beep beep."
 version = "0.0.0"
