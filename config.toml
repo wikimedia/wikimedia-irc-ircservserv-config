@@ -39,4 +39,3 @@ port = 6697
 use_tls = true
 encoding = "UTF-8"
 user_info = "Bots go beep beep."
-version = "0.0.0"
