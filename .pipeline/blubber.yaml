@@ -11,6 +11,8 @@ variants:
         - install
         - "--git"
         - "https://gerrit.wikimedia.org/r/wikimedia/irc/ircservserv"
+        - "--rev"
+        - b2d00ed
   validate:
     copies:
       - from: prep
