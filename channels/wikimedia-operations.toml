@@ -13,4 +13,15 @@ plus_o = [
     "*!*@libera/staff/*",
     "wmopbot",
 ]
+autovoice = [
+    "icinga-wm",
+    "ircservserv-wm",
+    "jinxer-wm",
+    "jouncebot",
+    "logmsgbot",
+    "stashbot",
+    "wikibugs",
+    "wmopbot",
+    "wm-bot",
+]
 global_bans = true
