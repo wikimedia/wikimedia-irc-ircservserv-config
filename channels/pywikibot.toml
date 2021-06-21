@@ -16,4 +16,9 @@ plus_o = [
     "*!*@libera/staff/*",
     "wmopbot",
 ]
+autovoice = [
+    "ircservserv-wm",
+    "wikibugs",
+    "wmopbot",
+]
 global_bans = true
