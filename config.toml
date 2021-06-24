@@ -7,8 +7,8 @@ owners = [
 # List of users who can merge changes to config
 # Updates to this list require a full restart
 trusted = [
-    "Legoktm",
-    "majavah",
+    "legoktm",
+    "Majavah",
 ]
 
 password_file = "/data/project/ircservserv/password"
