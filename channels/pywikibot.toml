@@ -14,10 +14,12 @@ ops = [
 ]
 plus_o = [
     "*!*@libera/staff/*",
+    "litharge",
     "wmopbot",
 ]
 autovoice = [
     "ircservserv-wm",
+    "litharge",
     "wikibugs",
     "wmopbot",
 ]
