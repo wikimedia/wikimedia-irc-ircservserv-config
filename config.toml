@@ -19,6 +19,7 @@ channel_config = "/data/project/ircservserv/ircservserv-config"
 channels = [
     "#wikimedia-ops",
     "#mediawiki",
+    "#mediawiki-parsoid",
     "#pywikibot",
     "#wikimedia-dev",
     "#wikimedia-editing",
@@ -27,6 +28,7 @@ channels = [
     "#wikimedia-operations",
     "#wikimedia-serviceops",
     "#wikimedia-sre",
+    "#wikipedia-abstract-tech"
 ]
 # IRC bot settings
 owners = []
