@@ -1,0 +1,34 @@
+founders = [
+    "arlolra",
+    "cscott",
+    "subbu",
+    "ircservserv-wm",
+]
+crats = [
+    "TimStarling",
+    "ihurbain",
+    "legoktm",
+    "sbailey",
+]
+ops = [
+    "James_F",
+    "Kemayo",
+    "Majavah",
+    "Reedy",
+]
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+    # Team members
+    "arlolra",
+    "cscott",
+    "subbu",
+    "ihurbain",
+    "sbailey",
+    # Bots
+    "wikibugs",
+    "wmopbot",
+]
+global_bans = true
+libera_staff = true
