@@ -21,6 +21,7 @@ ops = [
     "Urbanecm",
     "ashley",
     "c",
+    "[1997kB]",
 ]
 plus_o = [
     "*!*@libera/staff/*",
