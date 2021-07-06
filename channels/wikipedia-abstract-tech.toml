@@ -1,0 +1,20 @@
+founders = [
+    "James_F",
+    "legoktm",
+    "ircservserv-wm",
+]
+crats = [
+    "quiddity",
+    "vrandecic",
+]
+ops = [
+    "legoktm",
+]
+plus_o = [
+    "*!*@libera/staff/*",
+    "wmopbot",
+]
+autovoice = [
+    "wikibugs",
+]
+global_bans = true
