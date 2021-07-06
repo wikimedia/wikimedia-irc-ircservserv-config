@@ -12,7 +12,7 @@ variants:
         - "--git"
         - "https://gerrit.wikimedia.org/r/wikimedia/irc/ircservserv"
         - "--rev"
-        - b2d00ed
+        - 75f22c1
   validate:
     copies:
       - from: prep

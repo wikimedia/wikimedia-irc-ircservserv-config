@@ -10,7 +10,6 @@ ops = [
     "manuel",
 ]
 plus_o = [
-    "*!*@libera/staff/*",
     "wmopbot",
 ]
 autovoice = [
@@ -25,3 +24,4 @@ autovoice = [
     "wm-bot",
 ]
 global_bans = true
+libera_staff = true

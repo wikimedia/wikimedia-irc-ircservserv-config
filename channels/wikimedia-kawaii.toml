@@ -11,7 +11,7 @@ ops = [
     "ashley"
 ]
 plus_o = [
-    "*!*@libera/staff/*",
     "wmopbot",
 ]
 global_bans = true
+libera_staff = true
