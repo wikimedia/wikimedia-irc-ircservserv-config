@@ -7,7 +7,29 @@ founders = [
 crats = [
 ]
 ops = [
+    "apergos",
+    "bd808",
+    "shdubsh",
+    "dancy",
+    "effie",
+    "greg-g",
+    "hashar",
+    "Isarra",
+    "James_F",
+    "klausman",
+    "Lucas_WMDE",
     "manuel",
+    "Nikerabbit",
+    "ottomata",
+    "paravoid",
+    "question_mark",
+    "Reedy",
+    "sbasset",
+    "thcipriani",
+    "urbanecm",
+    "volans",
+    "wiki_willy",
+    "XioNoX",
 ]
 plus_o = [
     "wmopbot",
