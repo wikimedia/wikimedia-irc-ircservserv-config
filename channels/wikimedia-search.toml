@@ -1,0 +1,29 @@
+founders = [
+    "Az1568",
+    "ircservserv-wm",
+    "ebernhardson",
+    "gehel",
+]
+crats = [
+    "dcausse",
+    "mpham",
+    "ryankemper",
+    "Trey314159",
+    "zpapierski",
+]
+ops = [
+]
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+    "dcausse",
+    "ebernhardson",
+    "gehel",
+    "mpham",
+    "ryankemper",
+    "Trey314159",
+    "zpapierski",
+]
+global_bans = true
+libera_staff = true

@@ -26,6 +26,7 @@ channels = [
     "#wikimedia-hackathon",
     "#wikimedia-kawaii",
     "#wikimedia-operations",
+    "#wikimedia-search",
     "#wikimedia-serviceops",
     "#wikimedia-sre",
     "#wikipedia-abstract-tech"
