@@ -1,0 +1,23 @@
+founders = [
+    "greg-g",
+    "legoktm",
+    "ircservserv-wm",
+]
+crats = [
+    "thcipriani",
+    "brennen",
+]
+ops = []
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+    "wikibugs",
+    "dancy",
+    "hashar",
+    "dduvall",
+    "jeena",
+    "twentyafterfour",
+]
+global_bans = true
+libera_staff = true
