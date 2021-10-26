@@ -1,0 +1,36 @@
+founders = [
+    "ircservserv-wm",
+    # Tool creator
+    "hashar",
+    # Wikimedia management line
+    "thcipriani",
+    "greg-g",
+]
+crats = []
+ops = [
+    # Main developers
+    "awight",
+    "hashar",
+    "kostajh",
+    # Wikimedia release engineering team
+    "brennen",
+    "dancy",
+    "hashar",
+    "dduvall",
+    "jeena",
+    "twentyafterfour",
+]
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+    # Main developers
+    "awight",
+    "hashar",
+    "kostajh",
+
+    # Bots
+    "wikibugs",
+]
+global_bans = true
+libera_staff = true
