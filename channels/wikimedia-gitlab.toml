@@ -1,0 +1,38 @@
+founders = [
+    "ircservserv-wm",
+    # Technical lead for project
+    "brennen",
+    # Wikimedia management line
+    "thcipriani",
+    "greg-g",
+]
+crats = []
+ops = [
+    # Collaborators on GitLab project
+    "addshore",
+    "jelto",
+    "jbond",
+    "mutante",
+    "James_F",
+    # Wikimedia release engineering team
+    "brennen",
+    "dancy",
+    "hashar",
+    "dduvall",
+    "jeena",
+    "twentyafterfour",
+    "thcipriani",
+]
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+    # Various leads
+    "brennen",
+    "thcipriani",
+
+    # Bots
+    "wikibugs",
+]
+global_bans = true
+libera_staff = true

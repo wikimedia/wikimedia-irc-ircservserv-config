@@ -23,6 +23,7 @@ channels = [
     "#pywikibot",
     "#wikimedia-dev",
     "#wikimedia-editing",
+    "#wikimedia-gitlab",
     "#wikimedia-hackathon",
     "#wikimedia-kawaii",
     "#wikimedia-operations",
