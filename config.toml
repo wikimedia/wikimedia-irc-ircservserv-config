@@ -7,6 +7,7 @@ owners = [
 # List of users who can merge changes to config
 # Updates to this list require a full restart
 trusted = [
+    "joe_oblivian",
     "legoktm",
     "Majavah",
 ]
