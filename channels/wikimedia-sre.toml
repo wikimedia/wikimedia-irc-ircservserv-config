@@ -9,6 +9,7 @@ crats = [
 ]
 ops = [
     "manuel",
+    "sirenbot",
 ]
 plus_o = [
     "wmopbot",
