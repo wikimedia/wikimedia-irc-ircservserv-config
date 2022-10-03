@@ -9,6 +9,7 @@ variants:
       command:
         - cargo
         - install
+        - "--locked"
         - "--git"
         - "https://gerrit.wikimedia.org/r/wikimedia/irc/ircservserv"
         - "--rev"
