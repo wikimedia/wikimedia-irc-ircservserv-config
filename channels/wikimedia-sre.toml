@@ -9,10 +9,10 @@ crats = [
 ]
 ops = [
     "manuel",
-    "sirenbot",
 ]
 plus_o = [
     "wmopbot",
+    "sirenbot",
 ]
 global_bans = true
 libera_staff = true

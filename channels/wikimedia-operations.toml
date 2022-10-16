@@ -41,6 +41,7 @@ ops = [
 ]
 plus_o = [
     "wmopbot",
+    "sirenbot",
 ]
 autovoice = [
     "icinga-wm",
