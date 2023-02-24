@@ -6,9 +6,9 @@ founders = [
 ]
 crats = [
     "dcausse",
-    "ejoseph",
     "inflatador",
     "mpham",
+    "pfischer",
     "ryankemper",
     "Trey314159",
     "zpapierski",
@@ -21,10 +21,10 @@ plus_o = [
 autovoice = [
     "dcausse",
     "ebernhardson",
-    "ejoseph",
     "gehel",
     "inflatador",
     "mpham",
+    "pfischer",
     "ryankemper",
     "Trey314159",
     "zpapierski",
