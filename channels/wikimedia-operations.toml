@@ -41,10 +41,10 @@ ops = [
     "volans",
     "wiki_willy",
     "XioNoX",
+    "sirenbot",
 ]
 plus_o = [
     "wmopbot",
-    "sirenbot",
 ]
 autovoice = [
     "icinga-wm",
