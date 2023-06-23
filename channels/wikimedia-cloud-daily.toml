@@ -1,0 +1,24 @@
+founders = [
+    "dcaro",
+    "ircservserv-wm",
+]
+crats = [
+]
+ops = [
+    "Raymond_Ndibe",
+    "Rook",
+    "andrewbogott",
+    "arturo",
+    "ballons",
+    "bd808",
+    "blancadesal",
+    "dhinus",
+
+]
+plus_o = [
+    "wmopbot",
+]
+autovoice = [
+]
+global_bans = true
+libera_staff = true
