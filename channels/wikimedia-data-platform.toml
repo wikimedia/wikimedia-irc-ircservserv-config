@@ -1,0 +1,42 @@
+founders = [
+# Data Platform SRE
+    "bking",
+    "gehel",
+    "ircservserv-wm",
+]
+crats = [
+    "ryankemper",
+    "smunene",
+    "btullis",
+    "brouberol",
+]
+ops = [
+]
+plus_o = [
+    "wmopbot",
+]
+# Data Platform SWE and/or managers
+autovoice = [
+    "bking",
+    "dr0ptp4kt",
+    "ottomata",
+    "wdoran",
+    "cjming",
+    "milimetric",
+    "jennifer_ebe",
+    "mforns",
+    "phuedx",
+    "sfaci",
+    "xcollazo",
+    "aqu",
+    "gmodena",
+    "joal",
+    "SandraEbele",
+    "ebernhardson",
+    "dcausse",
+    "pfischer",
+    "Trey314159",
+
+]
+global_bans = true
+libera_staff = true

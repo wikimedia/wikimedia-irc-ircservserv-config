@@ -33,7 +33,9 @@ channels = [
     "#wikimedia-search",
     "#wikimedia-serviceops",
     "#wikimedia-sre",
-    "#wikipedia-abstract-tech"
+    "#wikipedia-abstract-tech",
+    "#wikimedia-data-platform-alerts",
+    "#wikimedia-data-platform",
 ]
 # IRC bot settings
 owners = []
