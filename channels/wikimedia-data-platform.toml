@@ -1,6 +1,6 @@
 founders = [
 # Data Platform SRE
-    "bking",
+    "inflatador",
     "gehel",
     "ircservserv-wm",
 ]
@@ -17,7 +17,7 @@ plus_o = [
 ]
 # Data Platform SWE and/or managers
 autovoice = [
-    "bking",
+    "inflatador",
     "dr0ptp4kt",
     "ottomata",
     "wdoran",
