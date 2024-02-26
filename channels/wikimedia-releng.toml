@@ -1,10 +1,9 @@
 founders = [
-    "greg-g",
+    "thcipriani",
     "legoktm",
     "ircservserv-wm",
 ]
 crats = [
-    "thcipriani",
     "brennen",
 ]
 ops = []
@@ -13,11 +12,13 @@ plus_o = [
 ]
 autovoice = [
     "wikibugs",
+    "andre",
     "dancy",
     "hashar",
     "dduvall",
     "jeena",
-    "twentyafterfour",
+    "jnuche",
+    "thcipriani",
 ]
 global_bans = true
 libera_staff = true
