@@ -1,9 +1,9 @@
 founders = [
-    "legoktm",
     "ircservserv-wm",
+    "JJMC89",
+    "legoktm",
 ]
 crats = [
-    "JJMC89",
     "valhallasw",
     "andre",
     "Amir1",
@@ -12,7 +12,6 @@ ops = [
     "c",
 ]
 plus_o = [
-    "wmopbot",
 ]
 autovoice = [
     "ircservserv-wm",
@@ -22,3 +21,4 @@ autovoice = [
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true
