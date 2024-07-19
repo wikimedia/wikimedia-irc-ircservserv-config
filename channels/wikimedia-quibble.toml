@@ -21,7 +21,6 @@ ops = [
     "twentyafterfour",
 ]
 plus_o = [
-    "wmopbot",
 ]
 autovoice = [
     # Main developers
@@ -34,3 +33,4 @@ autovoice = [
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true

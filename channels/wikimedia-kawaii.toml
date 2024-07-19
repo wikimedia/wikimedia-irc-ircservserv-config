@@ -10,7 +10,7 @@ ops = [
     "ashley"
 ]
 plus_o = [
-    "wmopbot",
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true

@@ -23,7 +23,7 @@ ops = [
     "[1997kB]",
 ]
 plus_o = [
-    "wmopbot",
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true

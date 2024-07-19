@@ -13,7 +13,6 @@ crats = [
 ops = [
 ]
 plus_o = [
-    "wmopbot",
 ]
 # Data Platform SWE and/or managers
 autovoice = [
@@ -36,7 +35,7 @@ autovoice = [
     "dcausse",
     "pfischer",
     "Trey314159",
-
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true

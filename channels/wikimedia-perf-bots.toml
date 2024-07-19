@@ -12,10 +12,10 @@ crats = [
 ]
 ops = []
 plus_o = [
-    "wmopbot",
 ]
 autovoice = [
     "wikibugs",
 ]
 global_bans = true
 libera_staff = true
+wmopbot = true
