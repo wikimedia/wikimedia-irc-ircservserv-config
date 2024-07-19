@@ -24,6 +24,7 @@ ops = [
     "thcipriani",
 ]
 plus_o = [
+    "wmopbot",
 ]
 autovoice = [
     # Various leads
@@ -35,4 +36,3 @@ autovoice = [
 ]
 global_bans = true
 libera_staff = true
-wmopbot = true

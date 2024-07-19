@@ -13,11 +13,12 @@ ops = [
     "bd808",
     "blancadesal",
     "dhinus",
+
 ]
 plus_o = [
+    "wmopbot",
 ]
 autovoice = [
 ]
 global_bans = true
 libera_staff = true
-wmopbot = true
