@@ -1,3 +1,3 @@
-# ircservserv
+Project has been migrated to GitLab:
 
-See https://meta.wikimedia.org/wiki/IRC/Bots/ircservserv
+https://gitlab.wikimedia.org/toolforge-repos/ircservserv-config
